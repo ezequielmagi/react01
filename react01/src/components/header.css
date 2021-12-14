@@ -21,6 +21,11 @@
   width: 90%;
 }
 
+.header img{
+  height: 70px;
+  width: 70px;
+}
+
 nav{
   width: 30vw;
 }
@@ -31,6 +36,7 @@ ul{
 }
 li{
   color: #fafafa;
+  cursor: pointer;
   font-weight: 400;
   list-style: none;
 }
