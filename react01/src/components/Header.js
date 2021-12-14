@@ -4,7 +4,7 @@ function Header(){
   return(
     <div className='header-container'>
       <div className="header">
-        <h1>LoTo</h1>
+        <img src="./assets/img/imgctab.png" alt="" />
       <nav>
         <ul>
           <li>Iniciar sesion</li>
